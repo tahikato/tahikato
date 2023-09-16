@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 
 <h1 align="center">hello there, im tahikato</h1>
 
