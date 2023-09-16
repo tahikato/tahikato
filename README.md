@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?text=Hello there!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<h1 align="center">hello there, im tahikato</h1>
+
+
 ```yaml
 name: tahikato
 located_in: Germany
