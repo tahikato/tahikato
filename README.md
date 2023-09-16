@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello there!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?text=Hello there!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 ```yaml
 name: tahikato
 located_in: Germany
