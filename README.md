@@ -1,13 +1,6 @@
 <link rel="stylesheet" href="stylesheets/main.css">
 <h1 align="center">hello there, im tahikato</h1>
 
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
-
-hello there, im tahikato
-
-<br>
 
 <p>
 <div align="center">
