@@ -16,7 +16,7 @@
 
 ```yaml
 name: tahikato
-located_in: Germany
+located_in: {........}
 what_am_i: Front End Developer
 education:
   [
