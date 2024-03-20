@@ -3,13 +3,13 @@
 
 ```yaml
 name: tahikato
-located_in: {........}
-what_am_i: Front End Developer
+located_in: {bio}
+what_am_i: Mid. Full Stack Developer, 
 education:
   [
-    "Self-Taught Developer and Maschine Learning",
-    "Currently learning Data Science",
-    "Want to get a Masters in Computer Engineering"
+    "Self-Taught Developer",
+    "Currently learning Data Science, Maschine Learning",
+    "Want to Major in Computer Engineering or Cyber Security"
   ]
 
 fields_of_interests:
@@ -20,9 +20,9 @@ fields_of_interests:
     "Data Science"
   ]
 
-currently_learning: ["Data Science and NodeRed"]
-goals_for_year: ["finish 15-20 projects and do an intership at a tech startup"]
-hobbies: ["Gaming, Movies, Reading, Making Money"]
+currently_learning: ["Java","CPP"]
+goals_for_year: ["finish 15-20 big projects and do an intership at a tech startup"]
+hobbies: ["Coding, Writing, Reading"]
 ```
 
 <!---
