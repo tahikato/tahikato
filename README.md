@@ -9,7 +9,7 @@ education:
   [
     "Self-Taught Developer",
     "Currently learning Data Science, Maschine Learning",
-    "Want to Major in Computer Engineering or Cyber Security"
+    "Want to Major in Cyber Security"
   ]
 
 fields_of_interests:
@@ -21,7 +21,7 @@ fields_of_interests:
   ]
 
 currently_learning: ["Java","CPP"]
-goals_for_year: ["finish 15-20 big projects and do an intership at a tech startup"]
+goals_for_year: ["finish 15-20 big projects"]
 hobbies: ["Coding, Writing, Reading"]
 ```
 
