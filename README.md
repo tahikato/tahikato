@@ -1,26 +1,27 @@
 <link rel="stylesheet" href="stylesheets/main.css">
-<h1 align="center">hello there, im tahikato</h1>
+<h1 align="center">Hello there im Julian!</h1>
 
 ```yaml
-name: tahikato
+name: Julian
 located_in: {bio}
-what_am_i: Mid. Full Stack Developer, 
+what_am_i: Front End / Back End Developer, 
 education:
   [
     "Self-Taught Developer",
-    "Currently learning Data Science, Maschine Learning",
     "Want to Major in Cyber Security"
   ]
 
 fields_of_interests:
   [
-    "Web Development",
-    "Game Design",
-    "Maschine Learning",
-    "Data Science"
+    "Java",
+    "C++",
+    "Python",
+    "HTML, CSS, JS",
+    "Ruby",
+    "C"
   ]
 
-currently_learning: ["Java","CPP"]
+currently_learning: ["Nothing, just focusing on improving my skills"]
 goals_for_year: ["finish 15-20 big projects"]
 hobbies: ["Coding, Writing, Reading"]
 ```
