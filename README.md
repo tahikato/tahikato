@@ -7,3 +7,4 @@
 - Student in Berlin, Germany
 - Want to study computer science or cyber security
 - I do freelancing (currently not)
+- Discord: julian.dev
