@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Julian
 
-- Developer for Matlo and CC (Both Private Dev Teams)
+- Developer for CC (Developer Team)
 - Front End / Back End Developer
 - Java, C++, Python, Javascript, Node.js, HTML, CSS, Ruby
 - Preferred language is C++ or Java
